@@ -9,9 +9,9 @@ User has to login/register the app by using Google/Facebook for the authenticati
 ## Add friends:(including friends request)
 1.	WAT users can add/remove friends by searching phone numbers/sending SMS/sending emails. (friends info can be retrieved from google/facebook Oauth response)
 
-	Open add friends-->add friends
+o	Open add friends-->add friends
 
-Choose a friend from your Contacts or enter friends emails, then tap Send Request to your friend
+o	Choose a friend from your Contacts or enter friends emails, then tap Send Request to your friend
 
 2.	After your friends respond to your request, friends will share with his/her locations with you automatically
 
@@ -32,7 +32,7 @@ Example: Evan has his location labeled home, and it will show as Evan’s Home i
 
 ## Chat Management
 
-Backend:
-Users API 
-Location API
-Groups API
+## Backend:
+•	Users API 
+•	Location API
+•	Groups API
